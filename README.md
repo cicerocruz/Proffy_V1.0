@@ -113,7 +113,7 @@ O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais 
 ---
 
 <h4 align="center">
-Desenvolvido por <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" target="_blank">Cícero Ceuz</a>
+Desenvolvido por <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" target="_blank">Cícero Cruz</a>
 </h4>
  
 [url-figma]: https://www.figma.com/file/EJ22k8VWB3JwiWV2MRwtU9/Proffy-Web
@@ -129,4 +129,4 @@ Desenvolvido por <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" 
 [url-npm]: https://www.npmjs.com/
 [url-yarn]: https://yarnpkg.com/
 [diego]: https://github.com/diego3g
-[license]: https://github.com/cicerocruz/Proffy_V1.0/LICENSE.md
+[license]: https://github.com/cicerocruz/Proffy_V1.0/blob/master/LICENSE.md

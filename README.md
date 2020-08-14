@@ -11,18 +11,24 @@
   🚧 Projeto desenvolvido durante a NLW#2 (Ago/2020)... 🚧
   <br>
   <br>
+    
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cicerocruz/Proffy_V1.0?color=%23FC943D">
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/LMThomaz/proffy"/>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cicerocruz/Proffy_V1.0?color=%23FC943D">
+	
+  <a href="https://www.linkedin.com/in/cicerocruz/">
+    <img alt="Made by Cicero Cruz" src="https://img.shields.io/badge/made%20by-C%C3%ADcero%20Cruz-%23FC943D">
   </a>
 
-  <a href="https://github.com/LMThomaz/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LMThomaz/proffy">
+  <a href="https://github.com/cicerocruz/SemanaOmnistack11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cicerocruz/Proffy_V1.0?color=%23FC943D">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/LMThomaz/proffy">
+  <a href="https://github.com/cicerocruz/SemanaOmnistack11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/cicerocruz/Proffy_V1.0?color=%23FC943D">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=%23FC943D">
 </p>
 
 ## :mag: Sobre o projeto

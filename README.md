@@ -118,8 +118,39 @@ O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais 
 
 ---
 
+<a id="contatos"></a>
+# :iphone: Contatos
+
+Me acompanhe nas minhas redes sociais.
+
+<p align="center">
+
+   <a href="https://github.com/cicerocruz" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=Github&logoColor=white"></a> 
+    
+ <a href="https://twitter.com/cicero_cruz" target="_blank" > 
+     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
+  
+  <a href="https://www.instagram.com/cicero_cruz/" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
+  
+  <a href="https://www.facebook.com/ciceroodilio.cruz.3" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
+
+  <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+  
+  <a href="mailto:cicero.cruz@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
+  
+  <a href="https://api.whatsapp.com/send?phone=5511961962967" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
+</p>
+
+---
+
 <h4 align="center">
-Desenvolvido por <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" target="_blank">Cícero Cruz</a>
+    Feito com ❤️ by <a href="https://www.linkedin.com/in/cicerocruz/?locale=pt_BR" target="_blank">Cícero Cruz</a>
 </h4>
  
 [url-figma]: https://www.figma.com/file/EJ22k8VWB3JwiWV2MRwtU9/Proffy-Web

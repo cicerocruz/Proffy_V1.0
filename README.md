@@ -31,7 +31,16 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=%23FC943D">
 </p>
 
-## :mag: Sobre o projeto
+# Índice
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias)
+- [Como Contribuir](#como-contribuir)
+- [Quem Ministrou](#quem-ministrou)
+- [Licença](#licença)
+- [Contatos](#contatos)
+
+<a id="sobre"></a>
+# :mag: Sobre o projeto
 Ajudamos professores a darem aulas e aos alunos deterem aulas dos professores com a melhores aptidão que lhe atende :microscope:  
 Desenvolvido durante a 2° versão da Next Level Week, oferecida pela [Rocketseat :rocket:][url-rocketseat] :coffee:  
 O NLW detêm muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
@@ -43,7 +52,8 @@ O layout da aplicação em sua versão **web** está disponível no [Figma][url-
 O layout da aplicação em sua versão **mobile** está disponível no [Figma][url-figma-mobile]   
 ![Capa Proffy Mobile](.github/capaMobile.png)
 
-## :hammer: Tecnologias?
+<a id="tecnologias"></a>
+# :hammer: Tecnologias?
 O projeto utiliza as seguintes ferramentas:
 * [TypeScript][url-ts]
 * [NodeJS][url-node]
@@ -94,8 +104,8 @@ $ cd mobile
 $ expo start
  
 ```
-
-## :coffee: Como posso ajudar?
+<a id="como-contribuir"></a>
+# :coffee: Como posso ajudar?
 1. Faça o Fork deste repositório
 2. Comece uma branch com sua feature 
 ```bash 
@@ -110,10 +120,12 @@ $ git commit -m 'Minha nova feature'
 $ git push origin minha-feature
 ```
 
-## :mortar_board: Quem ministrou ?
+<a id="quem-ministrou"></a>
+# :mortar_board: Quem ministrou ?
 As aulas foram ministradas pelo [Diego Fernandes][diego], nas aulas do **Next Level Week 2.0 - OmniStack** :rocket:
 
-## :page_with_curl: Licença
+<a id="licença"></a>
+# :page_with_curl: Licença
 O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais detalhes.  
 
 ---
